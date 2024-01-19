@@ -4,5 +4,3 @@
 @media all and (max-width: 426px) {
 
 }
-
-우경서
